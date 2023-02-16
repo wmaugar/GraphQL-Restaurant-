@@ -1,9 +1,9 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Expressgraphql01" />
+  <img src="./.github/app.gif" alt="GraphQL-Restaurant-" />
 
   &#xa0;
 
-  <!-- <a href="https://expressgraphql01.netlify.app">Demo</a> -->
+  <!-- <a href="https://GraphQL-Restaurant-.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Expressgraphql01</h1>
@@ -39,7 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/wmaugar" target="_blank">Author</a>
+  <a href="https://github.com/wmaugar/" target="_blank">Author</a>
 </p>
 
 <br>
