@@ -54,7 +54,7 @@ This application sets GraphQL for restaurant data and then add mutations to get 
 
 :heavy_check_mark: Create a new restaurant (setrestaurant) ;\
 :heavy_check_mark: Read all data (restaurants) and a simple restaurant ;\
-:heavy_check_mark: Update a restaurant (editrestaurant) ;
+:heavy_check_mark: Update a restaurant (editrestaurant) ;\
 :heavy_check_mark: Delete a restaurant (deleterestaurant) ;
 
 ## :rocket: Technologies ##
